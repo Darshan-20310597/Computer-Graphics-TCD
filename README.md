@@ -7,3 +7,5 @@ The coding is done on MS Visual Studio 2019.
 
 
 1. I have also added the issue encountered while i was implementing this module 
+
+GLAD webservice : http://glad.dav1d.de/
